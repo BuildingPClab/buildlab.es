@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Cuando el dominio definitivo esté elegido, sustituye DOMINIO-OFICIAL
+# por el dominio real y publica sitemap.xml en la raíz.
+Sitemap: https://DOMINIO-OFICIAL/sitemap.xml
